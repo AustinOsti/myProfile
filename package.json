@@ -9,6 +9,7 @@
         "deploy": "gh-pages -d dist"
     },
     "author": "Austin Nyika",
+    
     "license": "ISC",
     "dependencies": {
         "eslint": "^5.2.0",
