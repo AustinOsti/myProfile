@@ -1,7 +1,7 @@
 {
     "name": "modern_portfolio",
     "version": "1.0.0",
-    "description": "Responsive Portfollio Website",
+    "description": "Responsive Portfolio Website",
     "main": "index.js",
     "homepage": "https://AustinOsti.github.io/myProfile",
     "scripts": {
@@ -9,7 +9,6 @@
         "deploy": "gh-pages -d dist"
     },
     "author": "Austin Nyika",
-    
     "license": "ISC",
     "dependencies": {
         "eslint": "^5.2.0",
