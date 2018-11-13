@@ -12,7 +12,6 @@
     "license": "ISC",
     "dependencies": {
         "eslint": "^5.2.0",
-        "gh-pages": "^2.0.1",
         "node-sass": "^4.9.2"
     }
 }
