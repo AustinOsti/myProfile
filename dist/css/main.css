@@ -245,6 +245,9 @@ main {
   color: #fff;
   height: 60px; }
 
+.quotes {
+  text-align: center; }
+
 @media screen and (min-width: 1171px) {
   .projects {
     grid-template-columns: repeat(4, 1fr); } }
