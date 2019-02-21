@@ -90,6 +90,12 @@
 .nav-item:nth-child(4) {
   transition-delay: 0.4s; }
 
+.nav-item:nth-child(5) {
+  transition-delay: 0.5s; }
+
+.nav-item:nth-child(6) {
+  transition-delay: 0.6s; }
+
 * {
   box-sizing: border-box; }
 
@@ -238,6 +244,9 @@ main {
   background: #2b2b2b;
   color: #fff;
   height: 60px; }
+
+.quotes {
+  text-align: center; }
 
 @media screen and (min-width: 1171px) {
   .projects {
