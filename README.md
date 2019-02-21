@@ -9,14 +9,14 @@ My website developed using CSS and HTML5, using the SASS build tool.
 5. Run code . to launch code in Visual Studio IDE
 6. In Visual Studio, open a terminal (ctrl+`) and run npm run sass.
 7. To view code in browser, open the index.html file in Visual Studio, right-click mouse and select 'Open with LiveServer'
-8. Make required changes to the website. .Any changes to the code will be refllected immedietley on the browser due to the script settings in the package.json file.
+8. Make required changes to the website. Any changes to the code will be reflected immediatley (as a reult of running npm run sass).
 
 # To Launch Website via Github pages:
 1. Update the latest changes to your code to your github repository.
-2. Make sure that the gh-pages node module dependencies are installed. If not, run 
+2. Make sure that the gh-pages node module dependencies is installed. If not, run 
 npm install gh-pages
 3. If not set up, install the following line in your package.json file, just above the "scripts" line:
-"homepage": "https://<your github username>.github.io/<name of the repository> (e.g. https://AustinOsti.github.io/selfprojects_myprofile)
+"homepage": "https://[your github username].github.io/[name of the repository] (e.g. https://AustinOsti.github.io/selfprojects_myprofile)
 4. Set up the deploy code under within the "scripts" section, as follows:
 "deploy": "gh-pages -d dist"
 5. Within the code folder, run the command below to publish the website:
